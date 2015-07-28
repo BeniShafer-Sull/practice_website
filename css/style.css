@@ -1,0 +1,28 @@
+/* h1 = h1 selector, color = attribute*/
+h1 {
+  color: blue;
+}
+
+h3{
+  color: #4EBCFF; 
+}
+
+p{
+  color: #4EBCFF;
+  font-family: Arial;
+}
+
+.title-section{
+  text-align: center;
+}
+
+.title-section img {
+  border-style: solid;
+  border-color: #4EBCFF;
+  border-width: 10px;
+}
+
+body {
+  background-color: #A3BAE3;
+  color: white;
+}
